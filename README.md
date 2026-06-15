@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleHpxcnI1N2Y0Y3Y1NnMxdnF0N2MwbWZpaG95M2V5bXN0Y3FjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="50%"/> <br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVpcTRidXp6MXlxdWswZngybHkyazB5Mmx0MHUwaTNrdDJ3NWg5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iXU6uF40608035M62b/giphy.gif" alt="Minimalist Workspace" width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<!-- Fixed stable animation link -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Tech" width="0%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Workspace" width="45%"/><br> 
+
 ![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 </div>
