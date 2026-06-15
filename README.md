@@ -5,6 +5,9 @@
 <h3>Computer Science Student at Beirut Arab University</h3>
 
 <!-- Working tech workspace animation -->
+![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+
+</div>
 
 
 
