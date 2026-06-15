@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Cleaned up text header -->
+<!-- Clean text header with your actual name -->
 <h1>Hi 👋, I'm Osman Kassan</h1>
 <h3>Computer Science Student at Beirut Arab University</h3>
 
-<!-- Added 1 clean tech workspace illustration -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Workspace" width="45%"/><br><br>
+<!-- Working tech workspace animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Workspace" width="55%"/><br><br> 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
