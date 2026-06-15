@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<!-- Fixed stable animation link -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Tech" width="0%"/>
+<!-- Cleaned up text header instead of the hardcoded image banner -->
+<h1>Hi 👋, I'm Osman Kassan</h1>
+<h3>Computer Science Student at Beirut Arab University</h3>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Workspace" width="45%"/><br> 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
