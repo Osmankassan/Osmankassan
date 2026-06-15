@@ -3,13 +3,13 @@
 <h1>Hi 👋, I'm Osman Kassan</h1>
 <h3>Computer Science Student at Beirut Arab University</h3>
 
-<!-- Native, dynamic GitHub stats dashboard that will never break -->
+<!-- Native, dynamic GitHub stats dashboard set to your exact username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osman-kassan&show_icons=true&theme=tokyonight&count_private=true" alt="Osman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osman-kassan&theme=tokyonight" alt="Osman's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Osmankassan&show_icons=true&theme=tokyonight&count_private=true" alt="Osman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osmankassan&theme=tokyonight" alt="Osman's Streak Stats" width="48%" />
 </p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=osman-kassan&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=Osmankassan&style=flat&color=orange&label=PROFILE+VIEWS)
 </div>
 
 <hr></hr>
