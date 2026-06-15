@@ -1,14 +1,15 @@
 <div align="center">
 
-<!-- Clean text header with your actual name -->
+<!-- Cleaned up text header -->
 <h1>Hi 👋, I'm Osman Kassan</h1>
 <h3>Computer Science Student at Beirut Arab University</h3>
 
-<!-- Working tech workspace animation -->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+<!-- Fixed, stable tech illustration matching your PC interests -->
+<img src="https://lh3.googleusercontent.com/d/1O5I1h0X9iV5p6uC4G_R_2R2O5W8-8A3S" alt="Osman's Tech Workspace" width="75%"/><br><br>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=osman-kassan&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fosman-kassan&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 </div>
-
-
 
 <hr></hr>
 
