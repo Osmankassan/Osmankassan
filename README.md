@@ -1,14 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <br>
-
-</details>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleHpxcnI1N2Y0Y3Y1NnMxdnF0N2MwbWZpaG95M2V5bXN0Y3FjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="50%"/> <br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW00MXh6cHpxbms1M29zcG01Nnd6N2x0N3FmOHZ4bW16bXg0Y3h6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Tech Workspace" width="35%"/><br> 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
