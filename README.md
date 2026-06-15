@@ -27,3 +27,16 @@
 ```java
 // Tools and Profile Info organized in Java
 
+public class AboutMe { 
+    public static void main(String[] args) {
+        String name = "Osman Kassan";
+        String university = "Beirut Arab University (BAU)";
+        String location = "Lebanon";
+        String major = "Computer Science";
+        
+        String[] languages = {"Java", "Python", "C++"};
+        String[] databases = {"SQL", "SQLite"};
+        String[] tools = {"Git", "VS Code"};
+    }
+}
+
