@@ -3,7 +3,6 @@
 <h1>Hi 👋, I'm Osman Kassan</h1>
 <h3>Computer Science Student at Beirut Arab University</h3>
 
-<!-- Native, dynamic GitHub stats dashboard set to your exact username -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Osmankassan&show_icons=true&theme=tokyonight&count_private=true" alt="Osman's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osmankassan&theme=tokyonight" alt="Osman's Streak Stats" width="48%" />
@@ -28,15 +27,3 @@
 ```java
 // Tools and Profile Info organized in Java
 
-public class AboutMe { 
-    public static void main(String[] args) {
-        String name = "Osman Kassan";
-        String university = "Beirut Arab University (BAU)";
-        String location = "Lebanon";
-        String major = "Computer Science";
-        
-        String[] languages = {"Java", "Python", "C++"};
-        String[] databases = {"SQL", "SQLite"};
-        String[] tools = {"Git", "VS Code"};
-    }
-}
